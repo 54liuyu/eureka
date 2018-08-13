@@ -1,4 +1,4 @@
-package eurekademo;
+package eureka;
 
 import com.netflix.appinfo.InstanceInfo;
 import com.netflix.discovery.EurekaClient;
